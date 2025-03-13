@@ -453,8 +453,7 @@ class HPSVM:
                 "The model has not been trained yet. Call 'fit' before using this method."
             )
 
-        # For linear kernel, simply compute X @ w - beta
-        return X @ self.w - self.beta
+        return X @ self.w
 
     def predict(self, X):
         """
