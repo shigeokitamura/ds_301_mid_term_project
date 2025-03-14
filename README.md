@@ -31,14 +31,15 @@ Confirmimng the usefulness and scalability of the High-Performance Support Vecto
 ### Directory components
 
 
+```
 .
 ├── LICENSE
 ├── README.md
 ├── data
-│   ├── hate_speech_and_offensive_language_dataset.csv
-│   ├── mushroom_dataset.csv
-│   ├── preprocessing_mushroom.csv
-│   └── wholesale_customers_data.csv
+│   ├── hate_speech_and_offensive_language_dataset.csv
+│   ├── mushroom_dataset.csv
+│   ├── preprocessing_mushroom.csv
+│   └── wholesale_customers_data.csv
 └── models
     ├── HPSVM_model.ipynb
     ├── SVMs.ipynb
@@ -46,6 +47,7 @@ Confirmimng the usefulness and scalability of the High-Performance Support Vecto
     ├── hpsvm_application.ipynb
     ├── mushroom-ML.ipynb
     └── mushroom.ipynb
+```
 
 
 ### Environments
