@@ -32,20 +32,21 @@ Confirmimng the usefulness and scalability of the High-Performance Support Vecto
 
 
 .
-├── HPSVM_model.ipynb
 ├── LICENSE
 ├── README.md
-├── SVMs.ipynb
 ├── data
 │   ├── hate_speech_and_offensive_language_dataset.csv
+│   ├── mushroom_dataset.csv
+│   ├── preprocessing_mushroom.csv
 │   └── wholesale_customers_data.csv
-├── hpsvm.py
-├── hpsvm_application.ipynb
-├── mushroom-ML-Copy1.ipynb
-├── mushroom-ML.ipynb
-├── mushroom.ipynb
-├── mushroom_dataset.csv
-└── preprocessing_mushroom.csv
+└── models
+    ├── HPSVM_model.ipynb
+    ├── SVMs.ipynb
+    ├── hpsvm.py
+    ├── hpsvm_application.ipynb
+    ├── mushroom-ML.ipynb
+    └── mushroom.ipynb
+
 
 ### Environments
 
